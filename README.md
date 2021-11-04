@@ -49,5 +49,5 @@ Previously, I'm a MSc Mechatronics & Robotics graduate from the University of Le
 
 ## 📫 You can reach me on
 | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/github-logo.png" alt="GitHub Logo" width="34">](https://github.com/ChrisFayad) | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/linkedin.png" alt="LinkedIn Logo" width="34">](https://) | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/email.png" alt="Email Logo" width="34">](https://) | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/twitter.png" alt="Twitter Logo" width="34">](https://) | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/instagram.png" alt="Instagram Logo" width="24">](https://www.instagram.com/chris.fayad/) | [<img src="https://raw.githubusercontent.com/ChrisFayad/ChrisFayad/main/Assets/f-logo.png" alt="Facebook Logo" width="34">](https://) 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 <div><br></div>
